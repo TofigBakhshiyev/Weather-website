@@ -103,8 +103,8 @@ app.get('*', (req, res) => {
 
 
 app.listen(port, ()=>{
-    console.log('Server is up on port:' + port);
-    console.log('Link http://localhost:'+ port);
+    console.log('Server is up on port:' + port)
+    console.log('Link http://localhost:'+ port)
 })
 
 // https configuration
