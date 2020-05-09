@@ -1,11 +1,9 @@
 ### Web-service for weather forecast <br />
-I wrote this app in Node.js lesson <br />
+Weather application<br />
 #### Requirments
 You should write ApiKey in weather.js line 5. Also, write ApiKey in geocode.js line 7
 #### Run the application 
-`npm install` and `npm run dev` <br />
-#### Example
-https://weather-webservice.herokuapp.com/ 
+`npm install` and `npm run dev` <br /> 
 #### Known error
 this site gives error because of API_token <br />
 
